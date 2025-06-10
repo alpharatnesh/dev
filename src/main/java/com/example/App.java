@@ -4,7 +4,7 @@ package com.example;
  * Hello world!
  *
  */
-public class Ap 
+public class App 
 {
     public static void main( String[] args )
     {
